@@ -2,10 +2,6 @@
 
 # General Information
 
-Kaggle notebooks:
-
-* [Clean, Scrape, Merge](https://www.kaggle.com/pgeczy/nyt-covid-dataset-clean-scrape-merge-new-info) notebook
-
 An analysis of the NYT Covid-19 dataset. Includes:
 
 * Political data
@@ -14,3 +10,7 @@ An analysis of the NYT Covid-19 dataset. Includes:
 * NYT provided Covid-19 cases
 
 Please see [NYT Github](https://github.com/nytimes/covid-19-data) page for dataset dictionary and methodology.
+
+# Kaggle notebooks
+
+* [Clean, Scrape, Merge](https://www.kaggle.com/pgeczy/nyt-covid-dataset-clean-scrape-merge-new-info) notebook
