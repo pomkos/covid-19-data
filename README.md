@@ -1,5 +1,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pomkos/nyt-covid-data/master)
-[Kaggle](https://www.kaggle.com/pgeczy/nyt-covid-dataset-clean-scrape-merge-new-info)
+
+# General Information
+
+Kaggle notebooks:
+
+* [Clean, Scrape, Merge](https://www.kaggle.com/pgeczy/nyt-covid-dataset-clean-scrape-merge-new-info) notebook
 
 An analysis of the NYT Covid-19 dataset. Includes:
 
